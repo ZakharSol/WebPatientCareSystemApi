@@ -1,0 +1,536 @@
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.csproj.AssemblyReference.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.AssemblyInfoInputs.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.AssemblyInfo.cs
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.csproj.CoreCompileInputs.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\appsettings.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.exe
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.deps.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.runtimeconfig.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.pdb
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Humanizer.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Build.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Common.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebPatientCareSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPatientCareSystemAPI.props
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPatientCareSystemAPI.props
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPatientCareSystemAPI.props
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\scopedcss\bundle\WebPatientCareSystemAPI.styles.css
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatie.6D889E0F.Up2Date
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\refint\WebPatientCareSystemAPI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.pdb
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.genruntimeconfig.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\ref\WebPatientCareSystemAPI.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.RazorAssemblyInfo.cache
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.RazorAssemblyInfo.cs
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.TeamFoundation.Common.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Services.Common.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\X.PagedList.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyWork\Projects\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\refint\WebPatientCareSystemAPI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.pdb
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.csproj.AssemblyReference.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.AssemblyInfoInputs.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.AssemblyInfo.cs
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.csproj.CoreCompileInputs.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.RazorAssemblyInfo.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.RazorAssemblyInfo.cs
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\appsettings.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.exe
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.deps.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.runtimeconfig.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\WebPatientCareSystemAPI.pdb
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.TeamFoundation.Common.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Services.Common.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Common.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\X.PagedList.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebPatientCareSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPatientCareSystemAPI.props
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPatientCareSystemAPI.props
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPatientCareSystemAPI.props
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\scopedcss\bundle\WebPatientCareSystemAPI.styles.css
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatie.6D889E0F.Up2Date
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\WebPatientCareSystemAPI.genruntimeconfig.cache
+D:\Soft engineering\WebPatientCareSystemAPISolution\WebPatientCareSystemAPI\obj\Debug\net8.0\ref\WebPatientCareSystemAPI.dll

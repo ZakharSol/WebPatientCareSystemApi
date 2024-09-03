@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zVpEYqbQiEclOxFMKTjoLDoE7XLQihd/O7BDRrGX6fg=",
+  "Source": "WebPatientCareSystemAPI",
+  "BasePath": "_content/WebPatientCareSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

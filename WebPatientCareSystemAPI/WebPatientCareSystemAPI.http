@@ -1,0 +1,4 @@
+
+
+GET https://localhost:7246/api/Doctors
+Accept: application/json
