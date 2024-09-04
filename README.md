@@ -35,4 +35,4 @@
       - DistrictId       (FK)
 
 ## How to:
-After running the project via the .sln file, you need to go to the NuGet package console, and then initialize the ```Update-Database``` command. After these steps, you can start testing this product: you need to debug or build (https), after this action, a web page will be launched, which contains methods for testing by means of swagger.
+After running the project via the .sln file, you need to go to the NuGet package console, and then initialize the ```Update-Database``` command. After these steps, you can start testing this product: you need to debug or build, after this action, a web page will be launched, which contains methods for testing by means of swagger.
